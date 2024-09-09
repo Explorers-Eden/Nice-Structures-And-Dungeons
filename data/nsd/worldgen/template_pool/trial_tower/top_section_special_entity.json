@@ -1,0 +1,42 @@
+
+{
+    "name": "nsd:trial_tower/top_section_special_entity",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 10,
+        "element": {
+            "location": "nsd:trial_tower/evoker",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 3,
+        "element": {
+            "location": "nsd:trial_tower/blazes",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 2,
+        "element": {
+            "location": "nsd:trial_tower/allays",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 5,
+        "element": {
+            "location": "nsd:trial_tower/raid_captain",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

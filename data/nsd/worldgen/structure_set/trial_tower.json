@@ -1,0 +1,20 @@
+{
+    "structures": [
+      {
+        "structure": "nsd:trial_tower",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1532644257,
+      "exclusion_zone": {
+        "other_set": "minecraft:trial_chambers",
+        "chunk_count": 8
+      },
+      "spread_type": "triangular",
+      "spacing": 56,
+      "separation": 24
+    }
+  }
+  

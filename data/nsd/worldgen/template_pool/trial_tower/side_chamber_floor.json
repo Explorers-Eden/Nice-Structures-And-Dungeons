@@ -1,0 +1,69 @@
+
+{
+    "name": "nsd:trial_tower/side_chamber_floor",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_1",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_2",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_3",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_4",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_5",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_6",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/side_chamber_floor_7",
+            "processors": "nsd:trial_tower_side_chamber_floor",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

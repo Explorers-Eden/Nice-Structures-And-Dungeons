@@ -1,0 +1,140 @@
+{
+    "processors": [
+      {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:waxed_oxidized_copper",
+              "probability": 0.5
+            },
+            "output_state": {
+              "Name": "minecraft:waxed_weathered_copper"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:waxed_oxidized_copper",
+              "probability": 0.1
+            },
+            "output_state": {
+              "Name": "minecraft:waxed_exposed_copper"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:waxed_oxidized_copper_grate",
+              "probability": 0.5
+            },
+            "output_state": {
+              "Name": "minecraft:waxed_weathered_copper_grate"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:waxed_oxidized_copper_grate",
+              "probability": 0.1
+            },
+            "output_state": {
+              "Name": "minecraft:waxed_exposed_copper_grate"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:packed_ice",
+              "probability": 0.2
+            },
+            "output_state": {
+              "Name": "minecraft:blue_ice"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:netherrack",
+              "probability": 0.4
+            },
+            "output_state": {
+              "Name": "minecraft:magma_block"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:slime_block",
+              "probability": 0.4
+            },
+            "output_state": {
+              "Name": "minecraft:green_concrete_powder"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:honey_block",
+              "probability": 0.4
+            },
+            "output_state": {
+              "Name": "minecraft:honeycomb_block"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:soul_sand",
+              "probability": 0.4
+            },
+            "output_state": {
+              "Name": "minecraft:soul_soil"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:powder_snow",
+              "probability": 0.5
+            },
+            "output_state": {
+              "Name": "minecraft:snow_block"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

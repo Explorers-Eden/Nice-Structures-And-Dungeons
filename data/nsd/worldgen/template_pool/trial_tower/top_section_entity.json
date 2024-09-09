@@ -1,0 +1,33 @@
+
+{
+    "name": "nsd:trial_tower/top_section_entity",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 3,
+        "element": {
+            "location": "nsd:trial_tower/pillager",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/vindicator",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/witch",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}
