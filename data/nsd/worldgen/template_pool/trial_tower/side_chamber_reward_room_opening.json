@@ -21,7 +21,7 @@
         }
     },
     {
-        "weight": 2,
+        "weight": 1,
         "element": {
             "location": "nsd:trial_tower/side_chamber_reward_room_opening_3",
             "processors": "nsd:trial_tower",

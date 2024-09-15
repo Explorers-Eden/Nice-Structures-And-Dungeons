@@ -3,7 +3,7 @@
     "name": "nsd:trial_tower/sculk_sensor_feature",
     "fallback": "minecraft:empty",
     "elements": [{
-        "weight": 15,
+        "weight": 25,
         "element": {
             "location": "nsd:trial_tower/sculk_sensor_feature_1",
             "processors": "minecraft:empty",

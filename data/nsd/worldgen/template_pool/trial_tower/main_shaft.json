@@ -1,0 +1,33 @@
+
+{
+    "name": "nsd:trial_tower/main_shaft",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 3,
+        "element": {
+            "location": "nsd:trial_tower/main_shaft_1",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/main_shaft_2",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/main_shaft_3",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}

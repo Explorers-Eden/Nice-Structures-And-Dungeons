@@ -1,0 +1,42 @@
+
+{
+    "name": "nsd:trial_tower/shaft_to_left_side_chamber",
+    "fallback": "minecraft:empty",
+    "elements": [{
+        "weight": 3,
+        "element": {
+            "location": "nsd:trial_tower/shaft_to_left_side_chamber_1",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/shaft_to_left_side_chamber_2",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/shaft_to_left_side_chamber_3",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 1,
+        "element": {
+            "location": "nsd:trial_tower/shaft_to_left_side_chamber_4",
+            "processors": "nsd:trial_tower_shaft",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }
+]
+}
