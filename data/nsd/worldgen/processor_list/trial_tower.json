@@ -294,6 +294,71 @@
           "output_state": {
             "Name": "minecraft:damaged_anvil"
           }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:coal_block",
+            "probability": 0.1
+          },
+          "output_state": {
+            "Name": "minecraft:diamond_block"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:coal_block",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:raw_copper_block"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:coal_block",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:raw_iron_block"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:coal_block",
+            "probability": 0.75
+          },
+          "output_state": {
+            "Name": "minecraft:raw_gold_block"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:ladder",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
         }
       ]
     },

@@ -24,7 +24,7 @@
         "weight": 2,
         "element": {
             "location": "nsd:trial_tower/shaft_3",
-            "processors": "nsd:trial_tower",
+            "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }

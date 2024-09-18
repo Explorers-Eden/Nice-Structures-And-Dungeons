@@ -132,6 +132,19 @@
             "output_state": {
               "Name": "minecraft:snow_block"
             }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:ladder",
+              "probability": 0.5
+            },
+            "output_state": {
+              "Name": "minecraft:air"
+            }
           }
         ]
       }

@@ -228,7 +228,7 @@
         }
     },
     {
-        "weight": 3,
+        "weight": 5,
         "element": {
             "location": "minecraft:empty",
             "processors": "minecraft:empty",
