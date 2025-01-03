@@ -1,0 +1,31 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 48,
+        "separation": 28,
+        "salt": 46147891,
+        "spread_type": "triangular"
+    },
+    "structures": [
+        {
+        "structure": "nsd:end_shop",
+        "weight": 1
+        },
+        {
+            "structure": "nsd:grass_shop",
+            "weight": 1
+        },
+        {
+            "structure": "nsd:nether_shop",
+            "weight": 1
+        },
+        {
+            "structure": "nsd:sand_shop",
+            "weight": 1
+        },
+        {
+            "structure": "nsd:snow_shop",
+            "weight": 1
+        }
+]
+}

@@ -4,7 +4,6 @@
         {"id": "minecraft:old_growth_pine_taiga","required": false},
         {"id": "minecraft:old_growth_spruce_taiga","required": false},
         {"id": "minecraft:snowy_taiga","required": false},
-        {"id": "minecraft:taiga","required": false},
         {"id": "terralith:siberian_taiga","required": false}
     ]
 }
