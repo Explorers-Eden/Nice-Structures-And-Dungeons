@@ -1,7 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "step": "surface_structures",
-    "biomes": "#nsd:has_structure/outpost_snow",
+    "biomes": "#nsd:has_structure/snow",
     "start_pool": "nsd:villager_outpost/snow",
     "terrain_adaptation": "beard_box",
     "size": 7,
