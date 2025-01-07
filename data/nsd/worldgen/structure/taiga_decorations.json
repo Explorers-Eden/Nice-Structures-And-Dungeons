@@ -1,5 +1,5 @@
 {
-    "biomes": "#nsd:has_structure/taiga",
+    "biomes": "#nsd:has_structure/outpost_taiga",
     "adapt_noise": false,
     "spawn_overrides": {},
     "type": "minecraft:jigsaw",

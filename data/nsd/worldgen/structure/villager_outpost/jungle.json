@@ -1,7 +1,7 @@
 {
     "type": "minecraft:jigsaw",
     "step": "surface_structures",
-    "biomes": "#nsd:has_structure/jungle",
+    "biomes": "#nsd:has_structure/outpost_jungle",
     "start_pool": "nsd:villager_outpost/jungle",
     "terrain_adaptation": "beard_box",
     "size": 7,

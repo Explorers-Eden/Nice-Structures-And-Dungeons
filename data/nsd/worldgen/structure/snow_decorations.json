@@ -1,9 +1,9 @@
 {
-    "biomes": "#nsd:has_structure/snow",
+    "biomes": "#nsd:has_structure/outpost_snow",
     "adapt_noise": false,
     "spawn_overrides": {},
     "type": "minecraft:jigsaw",
-    "start_pool": "nsd:taiga_decorations",
+    "start_pool": "nsd:snow_decorations",
     "size": 3,
     "step": "surface_structures",
     "start_height": {
