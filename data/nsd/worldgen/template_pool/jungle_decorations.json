@@ -1,119 +1,146 @@
 {
-    "name": "nsd:snow_decorations",
+    "name": "nsd:jungle_decorations",
     "fallback": "minecraft:empty",
     "elements": [
         {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/cage_1",
+            "location": "nsd:jungle_decorations/bamboo_farm_1",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/campfire_1",
+            "location": "nsd:jungle_decorations/bamboo_farm_2",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/candy_cane_1",
+            "location": "nsd:jungle_decorations/bamboo_farm_3",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/candy_cane_2",
+            "location": "nsd:jungle_decorations/bamboo_farm_4",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/candy_cane_3",
+            "location": "nsd:jungle_decorations/cookie_farm_1",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/hot_tub_1",
+            "location": "nsd:jungle_decorations/cookie_farm_2",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/sled_1",
+            "location": "nsd:jungle_decorations/cookie_farm_3",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/snowman_1",
+            "location": "nsd:jungle_decorations/temple_1",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/snowman_2",
+            "location": "nsd:jungle_decorations/temple_2",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/snowman_3",
+            "location": "nsd:jungle_decorations/temple_3",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/snowman_4",
+            "location": "nsd:jungle_decorations/temple_4",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/snowman_5",
+            "location": "nsd:jungle_decorations/torch_1",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
         }
     },
     {
-        "weight": 1,
+        "weight": 10,
         "element": {
-            "location": "nsd:snow_decorations/cauldrons_1",
+            "location": "nsd:jungle_decorations/torch_2",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 10,
+        "element": {
+            "location": "nsd:jungle_decorations/torch_3",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 10,
+        "element": {
+            "location": "nsd:jungle_decorations/torch_4",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    },
+    {
+        "weight": 2,
+        "element": {
+            "location": "nsd:jungle_decorations/statue_1",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
