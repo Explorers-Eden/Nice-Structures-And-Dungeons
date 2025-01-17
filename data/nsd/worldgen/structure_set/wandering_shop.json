@@ -1,31 +1,37 @@
 {
     "placement": {
-        "type": "minecraft:random_spread",
-        "spacing": 48,
-        "separation": 28,
-        "salt": 46147891,
-        "spread_type": "triangular"
+      "type": "minecraft:random_spread",
+      "spacing": 48,
+      "separation": 28,
+      "salt": 515911998,
+      "spread_type": "triangular",
+      "frequency_reduction_method": "default",
+      "frequency": 0.8,
+      "exclusion_zone": {
+        "other_set": "minecraft:villages",
+        "chunk_count": 11
+      }
     },
     "structures": [
-        {
+      {
         "structure": "nsd:end_shop",
         "weight": 1
-        },
-        {
-            "structure": "nsd:grass_shop",
-            "weight": 1
-        },
-        {
-            "structure": "nsd:nether_shop",
-            "weight": 1
-        },
-        {
-            "structure": "nsd:sand_shop",
-            "weight": 1
-        },
-        {
-            "structure": "nsd:snow_shop",
-            "weight": 1
-        }
-]
-}
+      },
+      {
+        "structure": "nsd:grass_shop",
+        "weight": 1
+      },
+      {
+        "structure": "nsd:nether_shop",
+        "weight": 1
+      },
+      {
+        "structure": "nsd:sand_shop",
+        "weight": 1
+      },
+      {
+        "structure": "nsd:snow_shop",
+        "weight": 1
+      }
+    ]
+  }
